@@ -2,15 +2,16 @@
 
 I'm a MERN Stack Developer 🚀 with a year of experience wielding JavaScript. 
 
-## 🛠️ My Arsenal
+ ## 🛠️ Skills & Tools
 - **Frontend Weapons**: HTML5, CSS3, JavaScript, ReactJS
 - **Backend Tools**: NodeJS, PHP
 - **Database Systems**: MongoDB, SQL
 - **Others**: Git, GitHub
 
 ## 📫 Connect with me
-- 🌐 LinkedIn: [[Anupam Singh]](https://www.linkedin.com/in/anupam-singh88/)
-- 🎨 Portfolio: [[Anupam's Portfolio]](https://anupam-mern-portfolio.vercel.app/)
+- 🌐 LinkedIn: https://www.linkedin.com/in/anupam-singh88/
+- 🌐 Twitter: https://twitter.com/anupam_singh88
+- 🎨 Portfolio: https://anupam-mern-portfolio.vercel.app/
 - 📧 Email: anupamsingh2389@gmail.com
 
 ## 🔭 What I'm doing currently?
