@@ -4,7 +4,7 @@ I'm a MERN Stack Developer 🚀 with a year of experience wielding JavaScript.
 
  ## 🛠️ Skills & Tools
 - **Frontend Weapons**: HTML5, CSS3, JavaScript, ReactJS
-- **Backend Tools**: NodeJS, PHP
+- **Backend Tools**: NodeJS, NestJS, PHP
 - **Database Systems**: MongoDB, SQL
 - **Others**: Git, GitHub
 
